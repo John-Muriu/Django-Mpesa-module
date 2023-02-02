@@ -65,4 +65,4 @@ This module exposes some API endpoints that enable you work with MPESA API
 3. mpesa/check-transaction/
     This endpoint allows you to manually check for the status of an mpesa transaction
     
-Check out the `test module <https://github.com/Ekirapapaul/django-mpesa/tree/master/tests>`__ for more elaborate examples
+Check out the `test module <https://github.com/John-Muriu/Django-Mpesa-module/tree/main/tests>`__ for more elaborate examples
